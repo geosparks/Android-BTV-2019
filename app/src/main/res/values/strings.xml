@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BTV 2019</string>
+    <string name="image">image</string>
+    <string name="enter_email">Enter name or email</string>
+    <string name="register">Get Started</string>
+    <string name="hello">Hello!</string>
+    <string name="event_info">Event Info</string>
+    <string name="artists">Artists</string>
+    <string name="home">Home</string>
+    <string name="camping">Camping</string>
+    <string name="faqs">FAQS</string>
+    <string name="applications">Applications</string>
+    <string name="contact">Contact</string>
+    <string name="tickets">Tickets</string>
+</resources>
